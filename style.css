@@ -1,0 +1,71 @@
+<style>
+h1{
+	color: blue;
+	font-size: 50px;
+	font-family: "Tahoma", "Geneva", sans-serif;
+}
+
+#arriba {
+  width: 1170px;
+  padding-left:  50px;
+  padding-right: 50px;
+  margin-left:   30px;
+  margin-right:  30px;
+  border: 10px solid black;
+	font-family: "Tahoma", "Geneva", sans-serif;
+  color: white;
+  background-color: rgb(163,73,164);
+  text-align: center;
+}
+
+#izquierdo {
+
+  width: 100px;
+  padding-left:  50px;
+  padding-right: 50px;
+  margin-left:   30px;
+  margin-right:  30px;
+  border: 10px solid black;
+  float: left;
+  text-decoration: underline;
+	font-family: "Tahoma", "Geneva", sans-serif;
+	font-size: 30px;
+  text-align: center;
+  background-color: rgb(44,155,188);
+  color: blue;
+  height: 600px;
+
+
+}
+
+#abajo {
+
+  width: 1170px;
+  padding-left:  50px;
+  padding-right: 50px;
+  margin-left:   30px;
+  margin-right:  30px;
+  border: 10px solid black;
+  float: left;
+	font-family: "Tahoma", "Geneva", sans-serif;
+  text-align: center;
+  background-color: rgb(44,155,188);
+  color: white;
+  height: 100px;
+}
+
+#centro {
+  width: 900px;
+  float: left;
+	font-family: "Tahoma", "Geneva", sans-serif;
+  text-align: center;
+  background-color: gray;
+  color: black;
+  height: 500px;
+  background-color: white;
+
+
+}
+
+
+</style>
